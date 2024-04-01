@@ -1,0 +1,12 @@
+Studi Kasus:
+Sebuah toko kecil yang menjual barang-barang sehari-hari seperti makanan ringan.
+Dan ingin membuat program sederhana untuk menghitung total harga belanjaan pelanggan.
+
+Identifikasi Masalah:
+
+	1.	Sulitnya menghitung total harga belanjaan secara manual.
+	2.	Potensi kesalahan dalam perhitungan harga.
+
+Penyelesaian:
+Pelanggan memilih barang kemudian masukan data harga satuan barang dan program menghitung total harga
+maka muncul output tampilan total harga, pelanggan melakukan pembayaran dan program mencetak struk belanja
