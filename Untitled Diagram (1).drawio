@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" modified="2024-03-31T16:45:59.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="aYMTmndpzCe86smmdmwo" version="24.2.1" type="google">
+  <diagram name="Page-1" id="Gu7OVn8te0sRoyNj6m1s">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IzB73JyRMIpdy8m4dlqv-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IzB73JyRMIpdy8m4dlqv-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="54.5" y="80" as="sourcePoint" />
+            <mxPoint x="55" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="54.5" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IzB73JyRMIpdy8m4dlqv-4" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Input jumlah barang&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="15" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IzB73JyRMIpdy8m4dlqv-5" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Input harga&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;satuan&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="15" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IzB73JyRMIpdy8m4dlqv-7" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="54.5" y="160" as="sourcePoint" />
+            <mxPoint x="55" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IzB73JyRMIpdy8m4dlqv-8" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Hitung total harga&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="280" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IzB73JyRMIpdy8m4dlqv-9" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="54.5" y="240" as="sourcePoint" />
+            <mxPoint x="55" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IzB73JyRMIpdy8m4dlqv-10" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Tampilkan&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;total harga&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="15" y="360" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IzB73JyRMIpdy8m4dlqv-11" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="54.5" y="320" as="sourcePoint" />
+            <mxPoint x="55" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IzB73JyRMIpdy8m4dlqv-13" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="54.5" y="400" as="sourcePoint" />
+            <mxPoint x="54.5" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IzB73JyRMIpdy8m4dlqv-14" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Menerima pembayaran&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="440" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IzB73JyRMIpdy8m4dlqv-15" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Cetak struk belanja&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="12.5" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IzB73JyRMIpdy8m4dlqv-16" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="54.5" y="480" as="sourcePoint" />
+            <mxPoint x="55" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IzB73JyRMIpdy8m4dlqv-18" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="54.5" y="560" as="sourcePoint" />
+            <mxPoint x="54.5" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IzB73JyRMIpdy8m4dlqv-19" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="17.5" y="600" width="75" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
